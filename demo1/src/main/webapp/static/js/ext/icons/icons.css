@@ -1,0 +1,15 @@
+p {
+    margin: 5px;
+}
+
+.settings {
+    background-image: url(fam/folder_wrench.png);
+}
+
+.nav {
+    background-image: url(fam/folder_go.png);
+}
+
+.info {
+    background-image: url(fam/information.png);
+}
